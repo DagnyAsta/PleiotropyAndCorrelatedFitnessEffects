@@ -1,0 +1,680 @@
+During startup - Warning messages:
+1: Setting LC_COLLATE failed, using "C" 
+2: Setting LC_TIME failed, using "C" 
+3: Setting LC_MESSAGES failed, using "C" 
+4: Setting LC_MONETARY failed, using "C" 
+[1] "OK"
+[1] "OK"
+
+###Output directory :
+
+[1] "/Volumes/Temp3/dagny/Zhaoetal2015/output/countReads/"
+
+###Bam files to analyze :
+
+[1] "qcsorted_mapped_trimmed_sim_SRR1576520.bam"
+[1] "qcsorted_mapped_trimmed_sim_SRR1576522.bam"
+[1] "qcsorted_mapped_trimmed_sim_SRR1576523.bam"
+[1] "qcsorted_mapped_trimmed_sim_SRR1576527.bam"
+[1] "qcsorted_mapped_trimmed_sim_SRR1576528.bam"
+[1] "qcsorted_mapped_trimmed_sim_SRR1576529.bam"
+
+
+
+###Starting :
+
+[1] "/Volumes/Temp3/dagny/Zhaoetal2015/output/mappedReads/qcsorted_mapped_trimmed_sim_SRR1576520.bam"
+
+        ==========     _____ _    _ ____  _____  ______          _____  
+        =====         / ____| |  | |  _ \|  __ \|  ____|   /\   |  __ \ 
+          =====      | (___ | |  | | |_) | |__) | |__     /  \  | |  | |
+            ====      \___ \| |  | |  _ <|  _  /|  __|   / /\ \ | |  | |
+              ====    ____) | |__| | |_) | | \ \| |____ / ____ \| |__| |
+        ==========   |_____/ \____/|____/|_|  \_\______/_/    \_\_____/
+       Rsubread 2.2.2
+
+//========================== featureCounts setting ===========================\\
+||                                                                            ||
+||             Input files : 1 BAM file                                       ||
+||                           o qcsorted_mapped_trimmed_sim_SRR1576520.bam     ||
+||                                                                            ||
+||              Annotation : dsimM252.1.1.exon_CDS_utr.clean.gtf (GTF)        ||
+||      Dir for temp files : .                                                ||
+||      Assignment details : <input_file>.featureCounts.bam                   ||
+||     Details output path : /Volumes/Temp3/dagny/Zhaoetal2015/output/cou ... ||
+||                                                                            ||
+||                 Threads : 12                                               ||
+||                   Level : meta-feature level                               ||
+||              Paired-end : yes                                              ||
+||      Multimapping reads : counted                                          ||
+|| Multi-overlapping reads : not counted                                      ||
+||   Min overlapping bases : 1                                                ||
+||                                                                            ||
+||          Chimeric reads : counted                                          ||
+||        Both ends mapped : not required                                     ||
+||                                                                            ||
+\\============================================================================//
+
+//================================= Running ==================================\\
+||                                                                            ||
+|| Load annotation file dsimM252.1.1.exon_CDS_utr.clean.gtf ...               ||
+||    Features : 170030                                                       ||
+||    Meta-features : 13262                                                   ||
+||    Chromosomes/contigs : 81                                                ||
+||                                                                            ||
+|| Process BAM file qcsorted_mapped_trimmed_sim_SRR1576520.bam...             ||
+||    Paired-end reads are included.                                          ||
+||    Total alignments : 27970900                                             ||
+||    Successfully assigned alignments : 24117300 (86.2%)                     ||
+||    Running time : 2.64 minutes                                             ||
+||                                                                            ||
+|| Write the final count table.                                               ||
+|| Write the read assignment summary.                                         ||
+||                                                                            ||
+\\============================================================================//
+
+
+###Starting :
+
+[1] "/Volumes/Temp3/dagny/Zhaoetal2015/output/mappedReads/qcsorted_mapped_trimmed_sim_SRR1576522.bam"
+
+        ==========     _____ _    _ ____  _____  ______          _____  
+        =====         / ____| |  | |  _ \|  __ \|  ____|   /\   |  __ \ 
+          =====      | (___ | |  | | |_) | |__) | |__     /  \  | |  | |
+            ====      \___ \| |  | |  _ <|  _  /|  __|   / /\ \ | |  | |
+              ====    ____) | |__| | |_) | | \ \| |____ / ____ \| |__| |
+        ==========   |_____/ \____/|____/|_|  \_\______/_/    \_\_____/
+       Rsubread 2.2.2
+
+//========================== featureCounts setting ===========================\\
+||                                                                            ||
+||             Input files : 1 BAM file                                       ||
+||                           o qcsorted_mapped_trimmed_sim_SRR1576522.bam     ||
+||                                                                            ||
+||              Annotation : dsimM252.1.1.exon_CDS_utr.clean.gtf (GTF)        ||
+||      Dir for temp files : .                                                ||
+||      Assignment details : <input_file>.featureCounts.bam                   ||
+||     Details output path : /Volumes/Temp3/dagny/Zhaoetal2015/output/cou ... ||
+||                                                                            ||
+||                 Threads : 12                                               ||
+||                   Level : meta-feature level                               ||
+||              Paired-end : yes                                              ||
+||      Multimapping reads : counted                                          ||
+|| Multi-overlapping reads : not counted                                      ||
+||   Min overlapping bases : 1                                                ||
+||                                                                            ||
+||          Chimeric reads : counted                                          ||
+||        Both ends mapped : not required                                     ||
+||                                                                            ||
+\\============================================================================//
+
+//================================= Running ==================================\\
+||                                                                            ||
+|| Load annotation file dsimM252.1.1.exon_CDS_utr.clean.gtf ...               ||
+||    Features : 170030                                                       ||
+||    Meta-features : 13262                                                   ||
+||    Chromosomes/contigs : 81                                                ||
+||                                                                            ||
+|| Process BAM file qcsorted_mapped_trimmed_sim_SRR1576522.bam...             ||
+||    Paired-end reads are included.                                          ||
+||    Total alignments : 26559431                                             ||
+||    Successfully assigned alignments : 22620289 (85.2%)                     ||
+||    Running time : 2.30 minutes                                             ||
+||                                                                            ||
+|| Write the final count table.                                               ||
+|| Write the read assignment summary.                                         ||
+||                                                                            ||
+\\============================================================================//
+
+
+###Starting :
+
+[1] "/Volumes/Temp3/dagny/Zhaoetal2015/output/mappedReads/qcsorted_mapped_trimmed_sim_SRR1576523.bam"
+
+        ==========     _____ _    _ ____  _____  ______          _____  
+        =====         / ____| |  | |  _ \|  __ \|  ____|   /\   |  __ \ 
+          =====      | (___ | |  | | |_) | |__) | |__     /  \  | |  | |
+            ====      \___ \| |  | |  _ <|  _  /|  __|   / /\ \ | |  | |
+              ====    ____) | |__| | |_) | | \ \| |____ / ____ \| |__| |
+        ==========   |_____/ \____/|____/|_|  \_\______/_/    \_\_____/
+       Rsubread 2.2.2
+
+//========================== featureCounts setting ===========================\\
+||                                                                            ||
+||             Input files : 1 BAM file                                       ||
+||                           o qcsorted_mapped_trimmed_sim_SRR1576523.bam     ||
+||                                                                            ||
+||              Annotation : dsimM252.1.1.exon_CDS_utr.clean.gtf (GTF)        ||
+||      Dir for temp files : .                                                ||
+||      Assignment details : <input_file>.featureCounts.bam                   ||
+||     Details output path : /Volumes/Temp3/dagny/Zhaoetal2015/output/cou ... ||
+||                                                                            ||
+||                 Threads : 12                                               ||
+||                   Level : meta-feature level                               ||
+||              Paired-end : yes                                              ||
+||      Multimapping reads : counted                                          ||
+|| Multi-overlapping reads : not counted                                      ||
+||   Min overlapping bases : 1                                                ||
+||                                                                            ||
+||          Chimeric reads : counted                                          ||
+||        Both ends mapped : not required                                     ||
+||                                                                            ||
+\\============================================================================//
+
+//================================= Running ==================================\\
+||                                                                            ||
+|| Load annotation file dsimM252.1.1.exon_CDS_utr.clean.gtf ...               ||
+||    Features : 170030                                                       ||
+||    Meta-features : 13262                                                   ||
+||    Chromosomes/contigs : 81                                                ||
+||                                                                            ||
+|| Process BAM file qcsorted_mapped_trimmed_sim_SRR1576523.bam...             ||
+||    Paired-end reads are included.                                          ||
+||    Total alignments : 29259997                                             ||
+||    Successfully assigned alignments : 25071660 (85.7%)                     ||
+||    Running time : 2.87 minutes                                             ||
+||                                                                            ||
+|| Write the final count table.                                               ||
+|| Write the read assignment summary.                                         ||
+||                                                                            ||
+\\============================================================================//
+
+
+###Starting :
+
+[1] "/Volumes/Temp3/dagny/Zhaoetal2015/output/mappedReads/qcsorted_mapped_trimmed_sim_SRR1576527.bam"
+
+        ==========     _____ _    _ ____  _____  ______          _____  
+        =====         / ____| |  | |  _ \|  __ \|  ____|   /\   |  __ \ 
+          =====      | (___ | |  | | |_) | |__) | |__     /  \  | |  | |
+            ====      \___ \| |  | |  _ <|  _  /|  __|   / /\ \ | |  | |
+              ====    ____) | |__| | |_) | | \ \| |____ / ____ \| |__| |
+        ==========   |_____/ \____/|____/|_|  \_\______/_/    \_\_____/
+       Rsubread 2.2.2
+
+//========================== featureCounts setting ===========================\\
+||                                                                            ||
+||             Input files : 1 BAM file                                       ||
+||                           o qcsorted_mapped_trimmed_sim_SRR1576527.bam     ||
+||                                                                            ||
+||              Annotation : dsimM252.1.1.exon_CDS_utr.clean.gtf (GTF)        ||
+||      Dir for temp files : .                                                ||
+||      Assignment details : <input_file>.featureCounts.bam                   ||
+||     Details output path : /Volumes/Temp3/dagny/Zhaoetal2015/output/cou ... ||
+||                                                                            ||
+||                 Threads : 12                                               ||
+||                   Level : meta-feature level                               ||
+||              Paired-end : yes                                              ||
+||      Multimapping reads : counted                                          ||
+|| Multi-overlapping reads : not counted                                      ||
+||   Min overlapping bases : 1                                                ||
+||                                                                            ||
+||          Chimeric reads : counted                                          ||
+||        Both ends mapped : not required                                     ||
+||                                                                            ||
+\\============================================================================//
+
+//================================= Running ==================================\\
+||                                                                            ||
+|| Load annotation file dsimM252.1.1.exon_CDS_utr.clean.gtf ...               ||
+||    Features : 170030                                                       ||
+||    Meta-features : 13262                                                   ||
+||    Chromosomes/contigs : 81                                                ||
+||                                                                            ||
+|| Process BAM file qcsorted_mapped_trimmed_sim_SRR1576527.bam...             ||
+||    Paired-end reads are included.                                          ||
+||    Total alignments : 33944410                                             ||
+||    Successfully assigned alignments : 28826178 (84.9%)                     ||
+||    Running time : 3.25 minutes                                             ||
+||                                                                            ||
+|| Write the final count table.                                               ||
+|| Write the read assignment summary.                                         ||
+||                                                                            ||
+\\============================================================================//
+
+
+###Starting :
+
+[1] "/Volumes/Temp3/dagny/Zhaoetal2015/output/mappedReads/qcsorted_mapped_trimmed_sim_SRR1576528.bam"
+
+        ==========     _____ _    _ ____  _____  ______          _____  
+        =====         / ____| |  | |  _ \|  __ \|  ____|   /\   |  __ \ 
+          =====      | (___ | |  | | |_) | |__) | |__     /  \  | |  | |
+            ====      \___ \| |  | |  _ <|  _  /|  __|   / /\ \ | |  | |
+              ====    ____) | |__| | |_) | | \ \| |____ / ____ \| |__| |
+        ==========   |_____/ \____/|____/|_|  \_\______/_/    \_\_____/
+       Rsubread 2.2.2
+
+//========================== featureCounts setting ===========================\\
+||                                                                            ||
+||             Input files : 1 BAM file                                       ||
+||                           o qcsorted_mapped_trimmed_sim_SRR1576528.bam     ||
+||                                                                            ||
+||              Annotation : dsimM252.1.1.exon_CDS_utr.clean.gtf (GTF)        ||
+||      Dir for temp files : .                                                ||
+||      Assignment details : <input_file>.featureCounts.bam                   ||
+||     Details output path : /Volumes/Temp3/dagny/Zhaoetal2015/output/cou ... ||
+||                                                                            ||
+||                 Threads : 12                                               ||
+||                   Level : meta-feature level                               ||
+||              Paired-end : yes                                              ||
+||      Multimapping reads : counted                                          ||
+|| Multi-overlapping reads : not counted                                      ||
+||   Min overlapping bases : 1                                                ||
+||                                                                            ||
+||          Chimeric reads : counted                                          ||
+||        Both ends mapped : not required                                     ||
+||                                                                            ||
+\\============================================================================//
+
+//================================= Running ==================================\\
+||                                                                            ||
+|| Load annotation file dsimM252.1.1.exon_CDS_utr.clean.gtf ...               ||
+||    Features : 170030                                                       ||
+||    Meta-features : 13262                                                   ||
+||    Chromosomes/contigs : 81                                                ||
+||                                                                            ||
+|| Process BAM file qcsorted_mapped_trimmed_sim_SRR1576528.bam...             ||
+||    Paired-end reads are included.                                          ||
+||    Total alignments : 37729100                                             ||
+||    Successfully assigned alignments : 31626317 (83.8%)                     ||
+||    Running time : 3.97 minutes                                             ||
+||                                                                            ||
+|| Write the final count table.                                               ||
+|| Write the read assignment summary.                                         ||
+||                                                                            ||
+\\============================================================================//
+
+
+###Starting :
+
+[1] "/Volumes/Temp3/dagny/Zhaoetal2015/output/mappedReads/qcsorted_mapped_trimmed_sim_SRR1576529.bam"
+
+        ==========     _____ _    _ ____  _____  ______          _____  
+        =====         / ____| |  | |  _ \|  __ \|  ____|   /\   |  __ \ 
+          =====      | (___ | |  | | |_) | |__) | |__     /  \  | |  | |
+            ====      \___ \| |  | |  _ <|  _  /|  __|   / /\ \ | |  | |
+              ====    ____) | |__| | |_) | | \ \| |____ / ____ \| |__| |
+        ==========   |_____/ \____/|____/|_|  \_\______/_/    \_\_____/
+       Rsubread 2.2.2
+
+//========================== featureCounts setting ===========================\\
+||                                                                            ||
+||             Input files : 1 BAM file                                       ||
+||                           o qcsorted_mapped_trimmed_sim_SRR1576529.bam     ||
+||                                                                            ||
+||              Annotation : dsimM252.1.1.exon_CDS_utr.clean.gtf (GTF)        ||
+||      Dir for temp files : .                                                ||
+||      Assignment details : <input_file>.featureCounts.bam                   ||
+||     Details output path : /Volumes/Temp3/dagny/Zhaoetal2015/output/cou ... ||
+||                                                                            ||
+||                 Threads : 12                                               ||
+||                   Level : meta-feature level                               ||
+||              Paired-end : yes                                              ||
+||      Multimapping reads : counted                                          ||
+|| Multi-overlapping reads : not counted                                      ||
+||   Min overlapping bases : 1                                                ||
+||                                                                            ||
+||          Chimeric reads : counted                                          ||
+||        Both ends mapped : not required                                     ||
+||                                                                            ||
+\\============================================================================//
+
+//================================= Running ==================================\\
+||                                                                            ||
+|| Load annotation file dsimM252.1.1.exon_CDS_utr.clean.gtf ...               ||
+||    Features : 170030                                                       ||
+||    Meta-features : 13262                                                   ||
+||    Chromosomes/contigs : 81                                                ||
+||                                                                            ||
+|| Process BAM file qcsorted_mapped_trimmed_sim_SRR1576529.bam...             ||
+||    Paired-end reads are included.                                          ||
+||    Total alignments : 31437822                                             ||
+||    Successfully assigned alignments : 26458338 (84.2%)                     ||
+||    Running time : 2.96 minutes                                             ||
+||                                                                            ||
+|| Write the final count table.                                               ||
+|| Write the read assignment summary.                                         ||
+||                                                                            ||
+\\============================================================================//
+
+During startup - Warning messages:
+1: Setting LC_COLLATE failed, using "C" 
+2: Setting LC_TIME failed, using "C" 
+3: Setting LC_MESSAGES failed, using "C" 
+4: Setting LC_MONETARY failed, using "C" 
+[1] "OK"
+[1] "OK"
+
+###Output directory :
+
+[1] "/Volumes/Temp3/dagny/Zhaoetal2015/output/countReads/"
+
+###Bam files to analyze :
+
+[1] "qcsorted_mapped_trimmed_sim_SRR1576520.bam"
+[1] "qcsorted_mapped_trimmed_sim_SRR1576522.bam"
+[1] "qcsorted_mapped_trimmed_sim_SRR1576523.bam"
+[1] "qcsorted_mapped_trimmed_sim_SRR1576527.bam"
+[1] "qcsorted_mapped_trimmed_sim_SRR1576528.bam"
+[1] "qcsorted_mapped_trimmed_sim_SRR1576529.bam"
+
+
+
+###Starting :
+
+[1] "/Volumes/Temp3/dagny/Zhaoetal2015/output/mappedReads/qcsorted_mapped_trimmed_sim_SRR1576520.bam"
+
+        ==========     _____ _    _ ____  _____  ______          _____  
+        =====         / ____| |  | |  _ \|  __ \|  ____|   /\   |  __ \ 
+          =====      | (___ | |  | | |_) | |__) | |__     /  \  | |  | |
+            ====      \___ \| |  | |  _ <|  _  /|  __|   / /\ \ | |  | |
+              ====    ____) | |__| | |_) | | \ \| |____ / ____ \| |__| |
+        ==========   |_____/ \____/|____/|_|  \_\______/_/    \_\_____/
+       Rsubread 2.2.2
+
+//========================== featureCounts setting ===========================\\
+||                                                                            ||
+||             Input files : 1 BAM file                                       ||
+||                           o qcsorted_mapped_trimmed_sim_SRR1576520.bam     ||
+||                                                                            ||
+||              Annotation : dsimM252.1.1.exon_CDS_utr.clean.gtf (GTF)        ||
+||      Dir for temp files : .                                                ||
+||      Assignment details : <input_file>.featureCounts.bam                   ||
+||     Details output path : /Volumes/Temp3/dagny/Zhaoetal2015/output/cou ... ||
+||                                                                            ||
+||                 Threads : 12                                               ||
+||                   Level : meta-feature level                               ||
+||              Paired-end : yes                                              ||
+||      Multimapping reads : counted                                          ||
+|| Multi-overlapping reads : not counted                                      ||
+||   Min overlapping bases : 1                                                ||
+||                                                                            ||
+||          Chimeric reads : counted                                          ||
+||        Both ends mapped : not required                                     ||
+||                                                                            ||
+\\============================================================================//
+
+//================================= Running ==================================\\
+||                                                                            ||
+|| Load annotation file dsimM252.1.1.exon_CDS_utr.clean.gtf ...               ||
+||    Features : 170030                                                       ||
+||    Meta-features : 13262                                                   ||
+||    Chromosomes/contigs : 81                                                ||
+||                                                                            ||
+|| Process BAM file qcsorted_mapped_trimmed_sim_SRR1576520.bam...             ||
+||    Paired-end reads are included.                                          ||
+||    Total alignments : 27970900                                             ||
+||    Successfully assigned alignments : 24117300 (86.2%)                     ||
+||    Running time : 2.95 minutes                                             ||
+||                                                                            ||
+|| Write the final count table.                                               ||
+|| Write the read assignment summary.                                         ||
+||                                                                            ||
+\\============================================================================//
+
+
+###Starting :
+
+[1] "/Volumes/Temp3/dagny/Zhaoetal2015/output/mappedReads/qcsorted_mapped_trimmed_sim_SRR1576522.bam"
+
+        ==========     _____ _    _ ____  _____  ______          _____  
+        =====         / ____| |  | |  _ \|  __ \|  ____|   /\   |  __ \ 
+          =====      | (___ | |  | | |_) | |__) | |__     /  \  | |  | |
+            ====      \___ \| |  | |  _ <|  _  /|  __|   / /\ \ | |  | |
+              ====    ____) | |__| | |_) | | \ \| |____ / ____ \| |__| |
+        ==========   |_____/ \____/|____/|_|  \_\______/_/    \_\_____/
+       Rsubread 2.2.2
+
+//========================== featureCounts setting ===========================\\
+||                                                                            ||
+||             Input files : 1 BAM file                                       ||
+||                           o qcsorted_mapped_trimmed_sim_SRR1576522.bam     ||
+||                                                                            ||
+||              Annotation : dsimM252.1.1.exon_CDS_utr.clean.gtf (GTF)        ||
+||      Dir for temp files : .                                                ||
+||      Assignment details : <input_file>.featureCounts.bam                   ||
+||     Details output path : /Volumes/Temp3/dagny/Zhaoetal2015/output/cou ... ||
+||                                                                            ||
+||                 Threads : 12                                               ||
+||                   Level : meta-feature level                               ||
+||              Paired-end : yes                                              ||
+||      Multimapping reads : counted                                          ||
+|| Multi-overlapping reads : not counted                                      ||
+||   Min overlapping bases : 1                                                ||
+||                                                                            ||
+||          Chimeric reads : counted                                          ||
+||        Both ends mapped : not required                                     ||
+||                                                                            ||
+\\============================================================================//
+
+//================================= Running ==================================\\
+||                                                                            ||
+|| Load annotation file dsimM252.1.1.exon_CDS_utr.clean.gtf ...               ||
+||    Features : 170030                                                       ||
+||    Meta-features : 13262                                                   ||
+||    Chromosomes/contigs : 81                                                ||
+||                                                                            ||
+|| Process BAM file qcsorted_mapped_trimmed_sim_SRR1576522.bam...             ||
+||    Paired-end reads are included.                                          ||
+||    Total alignments : 26559431                                             ||
+||    Successfully assigned alignments : 22620289 (85.2%)                     ||
+||    Running time : 2.62 minutes                                             ||
+||                                                                            ||
+|| Write the final count table.                                               ||
+|| Write the read assignment summary.                                         ||
+||                                                                            ||
+\\============================================================================//
+
+
+###Starting :
+
+[1] "/Volumes/Temp3/dagny/Zhaoetal2015/output/mappedReads/qcsorted_mapped_trimmed_sim_SRR1576523.bam"
+
+        ==========     _____ _    _ ____  _____  ______          _____  
+        =====         / ____| |  | |  _ \|  __ \|  ____|   /\   |  __ \ 
+          =====      | (___ | |  | | |_) | |__) | |__     /  \  | |  | |
+            ====      \___ \| |  | |  _ <|  _  /|  __|   / /\ \ | |  | |
+              ====    ____) | |__| | |_) | | \ \| |____ / ____ \| |__| |
+        ==========   |_____/ \____/|____/|_|  \_\______/_/    \_\_____/
+       Rsubread 2.2.2
+
+//========================== featureCounts setting ===========================\\
+||                                                                            ||
+||             Input files : 1 BAM file                                       ||
+||                           o qcsorted_mapped_trimmed_sim_SRR1576523.bam     ||
+||                                                                            ||
+||              Annotation : dsimM252.1.1.exon_CDS_utr.clean.gtf (GTF)        ||
+||      Dir for temp files : .                                                ||
+||      Assignment details : <input_file>.featureCounts.bam                   ||
+||     Details output path : /Volumes/Temp3/dagny/Zhaoetal2015/output/cou ... ||
+||                                                                            ||
+||                 Threads : 12                                               ||
+||                   Level : meta-feature level                               ||
+||              Paired-end : yes                                              ||
+||      Multimapping reads : counted                                          ||
+|| Multi-overlapping reads : not counted                                      ||
+||   Min overlapping bases : 1                                                ||
+||                                                                            ||
+||          Chimeric reads : counted                                          ||
+||        Both ends mapped : not required                                     ||
+||                                                                            ||
+\\============================================================================//
+
+//================================= Running ==================================\\
+||                                                                            ||
+|| Load annotation file dsimM252.1.1.exon_CDS_utr.clean.gtf ...               ||
+||    Features : 170030                                                       ||
+||    Meta-features : 13262                                                   ||
+||    Chromosomes/contigs : 81                                                ||
+||                                                                            ||
+|| Process BAM file qcsorted_mapped_trimmed_sim_SRR1576523.bam...             ||
+||    Paired-end reads are included.                                          ||
+||    Total alignments : 29259997                                             ||
+||    Successfully assigned alignments : 25071660 (85.7%)                     ||
+||    Running time : 3.20 minutes                                             ||
+||                                                                            ||
+|| Write the final count table.                                               ||
+|| Write the read assignment summary.                                         ||
+||                                                                            ||
+\\============================================================================//
+
+
+###Starting :
+
+[1] "/Volumes/Temp3/dagny/Zhaoetal2015/output/mappedReads/qcsorted_mapped_trimmed_sim_SRR1576527.bam"
+
+        ==========     _____ _    _ ____  _____  ______          _____  
+        =====         / ____| |  | |  _ \|  __ \|  ____|   /\   |  __ \ 
+          =====      | (___ | |  | | |_) | |__) | |__     /  \  | |  | |
+            ====      \___ \| |  | |  _ <|  _  /|  __|   / /\ \ | |  | |
+              ====    ____) | |__| | |_) | | \ \| |____ / ____ \| |__| |
+        ==========   |_____/ \____/|____/|_|  \_\______/_/    \_\_____/
+       Rsubread 2.2.2
+
+//========================== featureCounts setting ===========================\\
+||                                                                            ||
+||             Input files : 1 BAM file                                       ||
+||                           o qcsorted_mapped_trimmed_sim_SRR1576527.bam     ||
+||                                                                            ||
+||              Annotation : dsimM252.1.1.exon_CDS_utr.clean.gtf (GTF)        ||
+||      Dir for temp files : .                                                ||
+||      Assignment details : <input_file>.featureCounts.bam                   ||
+||     Details output path : /Volumes/Temp3/dagny/Zhaoetal2015/output/cou ... ||
+||                                                                            ||
+||                 Threads : 12                                               ||
+||                   Level : meta-feature level                               ||
+||              Paired-end : yes                                              ||
+||      Multimapping reads : counted                                          ||
+|| Multi-overlapping reads : not counted                                      ||
+||   Min overlapping bases : 1                                                ||
+||                                                                            ||
+||          Chimeric reads : counted                                          ||
+||        Both ends mapped : not required                                     ||
+||                                                                            ||
+\\============================================================================//
+
+//================================= Running ==================================\\
+||                                                                            ||
+|| Load annotation file dsimM252.1.1.exon_CDS_utr.clean.gtf ...               ||
+||    Features : 170030                                                       ||
+||    Meta-features : 13262                                                   ||
+||    Chromosomes/contigs : 81                                                ||
+||                                                                            ||
+|| Process BAM file qcsorted_mapped_trimmed_sim_SRR1576527.bam...             ||
+||    Paired-end reads are included.                                          ||
+||    Total alignments : 33944410                                             ||
+||    Successfully assigned alignments : 28826178 (84.9%)                     ||
+||    Running time : 3.83 minutes                                             ||
+||                                                                            ||
+|| Write the final count table.                                               ||
+|| Write the read assignment summary.                                         ||
+||                                                                            ||
+\\============================================================================//
+
+
+###Starting :
+
+[1] "/Volumes/Temp3/dagny/Zhaoetal2015/output/mappedReads/qcsorted_mapped_trimmed_sim_SRR1576528.bam"
+
+        ==========     _____ _    _ ____  _____  ______          _____  
+        =====         / ____| |  | |  _ \|  __ \|  ____|   /\   |  __ \ 
+          =====      | (___ | |  | | |_) | |__) | |__     /  \  | |  | |
+            ====      \___ \| |  | |  _ <|  _  /|  __|   / /\ \ | |  | |
+              ====    ____) | |__| | |_) | | \ \| |____ / ____ \| |__| |
+        ==========   |_____/ \____/|____/|_|  \_\______/_/    \_\_____/
+       Rsubread 2.2.2
+
+//========================== featureCounts setting ===========================\\
+||                                                                            ||
+||             Input files : 1 BAM file                                       ||
+||                           o qcsorted_mapped_trimmed_sim_SRR1576528.bam     ||
+||                                                                            ||
+||              Annotation : dsimM252.1.1.exon_CDS_utr.clean.gtf (GTF)        ||
+||      Dir for temp files : .                                                ||
+||      Assignment details : <input_file>.featureCounts.bam                   ||
+||     Details output path : /Volumes/Temp3/dagny/Zhaoetal2015/output/cou ... ||
+||                                                                            ||
+||                 Threads : 12                                               ||
+||                   Level : meta-feature level                               ||
+||              Paired-end : yes                                              ||
+||      Multimapping reads : counted                                          ||
+|| Multi-overlapping reads : not counted                                      ||
+||   Min overlapping bases : 1                                                ||
+||                                                                            ||
+||          Chimeric reads : counted                                          ||
+||        Both ends mapped : not required                                     ||
+||                                                                            ||
+\\============================================================================//
+
+//================================= Running ==================================\\
+||                                                                            ||
+|| Load annotation file dsimM252.1.1.exon_CDS_utr.clean.gtf ...               ||
+||    Features : 170030                                                       ||
+||    Meta-features : 13262                                                   ||
+||    Chromosomes/contigs : 81                                                ||
+||                                                                            ||
+|| Process BAM file qcsorted_mapped_trimmed_sim_SRR1576528.bam...             ||
+||    Paired-end reads are included.                                          ||
+||    Total alignments : 37729100                                             ||
+||    Successfully assigned alignments : 31626317 (83.8%)                     ||
+||    Running time : 4.73 minutes                                             ||
+||                                                                            ||
+|| Write the final count table.                                               ||
+|| Write the read assignment summary.                                         ||
+||                                                                            ||
+\\============================================================================//
+
+
+###Starting :
+
+[1] "/Volumes/Temp3/dagny/Zhaoetal2015/output/mappedReads/qcsorted_mapped_trimmed_sim_SRR1576529.bam"
+
+        ==========     _____ _    _ ____  _____  ______          _____  
+        =====         / ____| |  | |  _ \|  __ \|  ____|   /\   |  __ \ 
+          =====      | (___ | |  | | |_) | |__) | |__     /  \  | |  | |
+            ====      \___ \| |  | |  _ <|  _  /|  __|   / /\ \ | |  | |
+              ====    ____) | |__| | |_) | | \ \| |____ / ____ \| |__| |
+        ==========   |_____/ \____/|____/|_|  \_\______/_/    \_\_____/
+       Rsubread 2.2.2
+
+//========================== featureCounts setting ===========================\\
+||                                                                            ||
+||             Input files : 1 BAM file                                       ||
+||                           o qcsorted_mapped_trimmed_sim_SRR1576529.bam     ||
+||                                                                            ||
+||              Annotation : dsimM252.1.1.exon_CDS_utr.clean.gtf (GTF)        ||
+||      Dir for temp files : .                                                ||
+||      Assignment details : <input_file>.featureCounts.bam                   ||
+||     Details output path : /Volumes/Temp3/dagny/Zhaoetal2015/output/cou ... ||
+||                                                                            ||
+||                 Threads : 12                                               ||
+||                   Level : meta-feature level                               ||
+||              Paired-end : yes                                              ||
+||      Multimapping reads : counted                                          ||
+|| Multi-overlapping reads : not counted                                      ||
+||   Min overlapping bases : 1                                                ||
+||                                                                            ||
+||          Chimeric reads : counted                                          ||
+||        Both ends mapped : not required                                     ||
+||                                                                            ||
+\\============================================================================//
+
+//================================= Running ==================================\\
+||                                                                            ||
+|| Load annotation file dsimM252.1.1.exon_CDS_utr.clean.gtf ...               ||
+||    Features : 170030                                                       ||
+||    Meta-features : 13262                                                   ||
+||    Chromosomes/contigs : 81                                                ||
+||                                                                            ||
+|| Process BAM file qcsorted_mapped_trimmed_sim_SRR1576529.bam...             ||
+||    Paired-end reads are included.                                          ||
+||    Total alignments : 31437822                                             ||
+||    Successfully assigned alignments : 26458338 (84.2%)                     ||
+||    Running time : 3.01 minutes                                             ||
+||                                                                            ||
+|| Write the final count table.                                               ||
+|| Write the read assignment summary.                                         ||
+||                                                                            ||
+\\============================================================================//
+
